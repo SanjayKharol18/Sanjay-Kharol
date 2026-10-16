@@ -1,0 +1,6 @@
+{
+  "name": "BookSaathi - Legal Free E-Books Discovery",
+  "description": "Discover verified legal, free e-books in Hindi and English across Fiction, Business, Spirituality, Self-Improvement, and Education with zero copyrighted piracy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
